@@ -1,1 +1,1 @@
-# modal_project
+Gallery of some of my favourite anime using html, css and javascript.
