@@ -78,27 +78,31 @@ footer  {
 
 .gallery {
     display: flex;
+    max-width: 1200px;
+    width: 100%;
     flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 20px;
+    justify-content: center;
+   
 }
 
-.photo {
+/* .photo {
     margin: 10px;
-    flex: 1 1 calc(50% - 20px); /* two items per row */
+    flex: 1 1 calc(50% - 20px);
     max-width: calc(50% - 20px);
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     color: white;
-}
+} */
 
-.photo img {
+img {
     max-width: 100%;
     height: auto;
+    width: 300px;
     border-radius: 8px;
     border: 1px solid white;
+    margin: 3px;
 }
 
 .photo img:hover {

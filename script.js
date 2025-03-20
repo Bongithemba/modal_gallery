@@ -18,6 +18,8 @@ const photos = [
   leading him to a life of boredom and a search for a worthy opponent.` },
   { src: 'https://4kwallpapers.com/images/walls/thumbs_3t/21530.png', caption: `The story follows high school student Yuji Itadori as he joins a secret organization of Jujutsu Sorcerers to 
   eliminate a powerful Curse named Ryomen Sukuna, of whom Yuji becomes the host.` },
+  { src: 'https://4kwallpapers.com/images/walls/thumbs_3t/19257.jpg' , caption: `Bleach follows Ichigo Kurosaki, a high school student who can see ghosts, as he gains soul reaper powers from Rukia Kuchiki and fights to protect humans from Hollows, evil spirits, and maintain the balance between the world of the living and the dead`}
+
 ];
 
 
